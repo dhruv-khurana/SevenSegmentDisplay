@@ -1,3 +1,5 @@
+// Do Not Download This Code
+
 #include "SevenSegmentDisplay.h"
 
 SevenSegmentDisplay::SevenSegmentDisplay(int Dot, int TopRight, int BottomRight, int Top, int Bottom, int TopLeft, int BottomLeft, int Middle)

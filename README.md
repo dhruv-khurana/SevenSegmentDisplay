@@ -6,7 +6,7 @@ The SevenSegmentDisplay library is an Arduino library for controlling a seven-se
 
 ## Installation
 
-# Download the latest release 
+### Download the latest release 
 ```SevenSegmentDisplay.zip```
 
 1. Unzip the downloaded file.

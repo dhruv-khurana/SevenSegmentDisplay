@@ -6,10 +6,12 @@ The SevenSegmentDisplay library is an Arduino library for controlling a seven-se
 
 ## Installation
 
-1. Download the latest release
-2. Unzip the downloaded file.
-3. Copy the `SevenSegmentDisplay` folder to the `libraries` folder inside your Arduino sketchbook directory.
-4. Restart the Arduino IDE.
+# Download the latest release 
+```SevenSegmentDisplay.zip```
+
+1. Unzip the downloaded file.
+2. Copy the `SevenSegmentDisplay` folder to the `libraries` folder inside your Arduino sketchbook directory.
+3. Restart the Arduino IDE.
 
 Alternatively, you can install the library via the Arduino Library Manager:
 
